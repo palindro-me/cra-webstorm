@@ -24,6 +24,7 @@ function App() {
             <p>blabla</p>
           </a>
           <p>11</p>
+          <p>2</p>
         </header>
       </div>
   );

@@ -23,3 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 /.idea
+/qodana.yaml
+/.github/workflows/qodana_code_quality.yml
